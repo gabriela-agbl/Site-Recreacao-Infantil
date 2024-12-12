@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como uma atividade prática utilizando **HTML5** e
 
 ## 🚀 Como Rodar:
 1. Clone ou baixe os arquivos do repositório.
-2. Abra o arquivo `index.html` no seu navegador preferido.
+2. Abra o arquivo `Página Inicial.html` no seu navegador preferido.
 
 ## 🔄 Como Contribuir:
 1. Faça um **fork** deste repositório.
