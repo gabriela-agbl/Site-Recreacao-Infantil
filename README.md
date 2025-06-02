@@ -3,8 +3,8 @@
 Este projeto foi desenvolvido como uma atividade prática utilizando **HTML5** e **CSS3** para uma empresa fictícia de recreação e festas infantis. O site contém informações sobre os serviços oferecidos, uma galeria de fotos e um formulário de contato para reservas.
 
 ## 🛠️ Linguagens Utilizadas:
-- **HTML5**: Estruturação das páginas.
-- **CSS3**: Estilização e layout responsivo.
+- **HTML**: Estruturação das páginas.
+- **CSS**: Estilização e layout responsivo.
 
 ## 🌟 Funcionalidades:
 - **Página inicial** com informações sobre os serviços de recreação.
