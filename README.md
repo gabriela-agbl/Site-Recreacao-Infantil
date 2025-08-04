@@ -8,8 +8,9 @@ Este projeto foi desenvolvido como uma atividade prática utilizando **HTML5** e
 <h2>🛠️ Linguagens Utilizadas:</h2>
 </div>
 
-- **HTML**: Estruturação das páginas.
-- **CSS**: Estilização e layout responsivo.
+<div align="center">
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="70px" height="70px"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="70px" height="70px">
+</div>
 
 <div align="center">
 <h2>🌟 Funcionalidades:</h2>
@@ -48,3 +49,4 @@ Feito por [Gabriela Rodrigues](https://github.com/gabriela-agbl)
 ![](https://private-user-images.githubusercontent.com/74038190/245400778-9037a869-528d-44e2-acaa-288c260ec742.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM4NDUwNDQsIm5iZiI6MTczMzg0NDc0NCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NzgtOTAzN2E4NjktNTI4ZC00NGUyLWFjYWEtMjg4YzI2MGVjNzQyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEwVDE1MzIyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmNWNkNmM1NjVjMzBhNTgzZDQyMzdlNjIyMGI4MjdiNzU4YjdhYWU5NzJiNzhjOWIxYzc3OTg1ZDFiY2ExNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pum5NOykLti_GVN6TtkTBNnEc83JAOPV1DzaEwX_RX8)
 
 </div>
+
